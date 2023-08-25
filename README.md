@@ -1,4 +1,5 @@
-# DIO - Desafio 1 -Trilha Java Básico
+# Trilha Java Básico
+# DIO - Desafio 1 - Sintaxe 
 www.dio.me
 
 #### Professor
