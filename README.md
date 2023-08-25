@@ -1,5 +1,5 @@
 # Trilha Java Básico
-# DIO - Desafio 1 - Sintaxe 
+## DIO - Desafio 1 - Sintaxe 
 www.dio.me
 
 #### Professor
