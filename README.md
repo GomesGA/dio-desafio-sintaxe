@@ -1,4 +1,4 @@
-# DIO - Trilha Java Básico
+# DIO - Desafio 1 -Trilha Java Básico
 www.dio.me
 
 #### Professor
